@@ -24,3 +24,8 @@ PUSH IT INTO REPO                                git push origin "tagname"
 HOW TO LIST TAGS                                 git tag
 HOW TO DELETE TAG LOCALLY                        git tag -d "tag name"
 HOW TO DELETE TAG REMOTELY                       git push origin --delete "Tag name"
+
+
+
+
+![white-dog-breeds-4846529-hero-4bf084c93c5b45a292e30559bb7e50e8](https://user-images.githubusercontent.com/107800046/227575012-718812ed-5877-4c83-9a8b-e4e0d300e14f.jpg)
